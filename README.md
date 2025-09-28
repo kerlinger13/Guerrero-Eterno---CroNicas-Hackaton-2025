@@ -12,7 +12,7 @@
 
 * **Motor de Desarrollo:** Ren'Py (Basado en Python)
 * **Lenguaje de Programación:** Python
-* **Diseño Gráfico:** Adobe Creative Suite / Figma (para arte y UI)
+* **Diseño Gráfico:** Whisk IA / Morphic.com (para arte y UI)
 
 ## ⬇️ Instrucciones de Instalación y Ejecución
 
