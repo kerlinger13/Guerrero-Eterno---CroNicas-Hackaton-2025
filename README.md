@@ -4,9 +4,9 @@
 
 ## 🎯 Propósito del Proyecto
 
-[cite_start]**Guerrero Eterno** es una novela visual educativa desarrollada para el Hackathon 2025. Nuestra misión es transformar las históricas de Nicaragua en una **experiencia narrativa interactiva** que genere empatía y fomente el **orgullo nacional**.
+**Guerrero Eterno** es una novela visual educativa desarrollada para el Hackathon 2025. Nuestra misión es transformar las históricas de Nicaragua en una **experiencia narrativa interactiva** que genere empatía y fomente el **orgullo nacional**.
 
-[cite_start]El juego busca ofrecer una alternativa al estudio tradicional, siendo una herramienta atractiva y eficaz para **estudiantes, profesores, familias y turistas**.
+El juego busca ofrecer una alternativa al estudio tradicional, siendo una herramienta atractiva y eficaz para **estudiantes, profesores, familias y turistas**.
 
 ## 🛠️ Tecnologías Utilizadas
 
